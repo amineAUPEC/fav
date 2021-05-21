@@ -1,0 +1,1 @@
+:::image type="content" source="images_LP_planning/194944.png" alt-text="planning_may":::
