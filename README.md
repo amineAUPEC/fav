@@ -6,4 +6,4 @@ My favorite tips and template
 
 [latest planning](lp_planning.md#latest-planning)
 
-![planning_may](./images_LP_planning/194944.png)
+![planning_may](./images_LP_planning/182124.png)
